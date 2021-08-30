@@ -14,7 +14,7 @@ h1{
 }
 .drum{
     font-size: 5rem;
-    outline: nont;
+    outline: none;
     border: 10px solid #404B69;
     font-family: 'Arvo', cursive;
     line-height: 2;
