@@ -38,8 +38,8 @@ for (var i = 0; document.querySelectorAll(".drum").length; i++) {
             default:
                 console.log(buttonInnerHtml);
         }
-
-
     });
-
 }
+document.addEventListener("keydown", function(){
+    alert("hello");
+});
